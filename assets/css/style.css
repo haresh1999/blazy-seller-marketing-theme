@@ -1923,30 +1923,33 @@ margin-bottom: 12px;
 }
 .custom-popup-wrapper .modal-body h3 {
   color: #000;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 700;
   line-height: 37px;
   margin-bottom: 23px;
 }
 .custom-popup-wrapper .modal-body p {
   color: #8B8B8B;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 1.4;
+}
+.custom-popup-wrapper .modal-body .img-fluid {
+  max-height: 316px;
 }
 .custom-popup-wrapper .key-benifits {
 margin-block:32px  30px;
 }
 .custom-popup-wrapper .key-benifits h4 {
   color: #000;
-  font-size: 38px;
+  font-size: 34px;
   font-weight: 700;
   line-height: 1;
   margin-bottom: 24px;
 }
 .custom-popup-wrapper .key-benifits li {
   color: #8B8B8B;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 1.4;
 }
@@ -1961,19 +1964,19 @@ margin-block:32px  30px;
   background-size: cover;
   background-position: center;
   border-radius: 13px;
-  padding: 24px 42px;
+  padding: 24px 32px;
   margin: 30px 36px 26px;
 }
 .custom-popup-wrapper .modal-footer h4 {
   color: #FFF;
-  font-size: 34px;
+  font-size: 32px;
   font-weight: 600;
   line-height: 25px;
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 .custom-popup-wrapper .modal-footer p {
   color: #FFF;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 24px;
   margin-bottom: 0;
